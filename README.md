@@ -6,7 +6,7 @@ Generate a json information file for each installable brew cask package
 You need to have an up-to-date brew with cask
 
 ## Usage
-In Terminal, so to the folder where casklist2json.sh reside and execute it
+In Terminal, go to the folder where casklist2json.sh reside and execute it
 
 `./casklist2json.sh`
 
